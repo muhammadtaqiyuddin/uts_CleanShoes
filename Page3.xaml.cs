@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace WpfApp1
+{
+    /// <summary>
+    /// Interaction logic for Page3.xaml
+    /// </summary>
+    public partial class Page3 : Page
+    {
+        string paket, waktu, harga,nama,sepatu;
+        public Page3(string CNama, string CSepatu, string CPaket, string CWaktu, string CHarga)
+        {
+            InitializeComponent();
+            paket = CPaket;
+            harga = CHarga;
+            waktu = CWaktu;
+            nama = CNama;
+            sepatu = CSepatu;
+
+            LNama.Content = nama;
+            LSepatu.Content = sepatu;
+            LHarga.Content = harga;
+            LPaket.Content = paket;
+            
+        }
+    }
+}

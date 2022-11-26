@@ -1,0 +1,54 @@
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Page1.baml
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Page2.g.cs
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Page2.baml
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Page3.g.cs
+C:\Users\Asus X550Z\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Page3.baml
+C:\Amikom\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Amikom\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Amikom\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Amikom\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Amikom\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\Page2.g.cs
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\Page3.g.cs
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\Page1.baml
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\Page2.baml
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\Page3.baml
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Amikom\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll

@@ -1,0 +1,74 @@
+﻿<Page x:Class="WpfApp1.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page3">
+
+	<Grid Background="White">
+		<Ellipse HorizontalAlignment="Left" Height="16" Margin="38,378,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" Fill="Black"/>
+		<MediaElement HorizontalAlignment="Left" Height="100" Margin="261,298,0,0" VerticalAlignment="Top" Width="100"/>
+		<Rectangle HorizontalAlignment="Left" Height="30" Margin="45,394,0,0" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+		<Ellipse HorizontalAlignment="Left" Height="16" Margin="38,322,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" Fill="Black"/>
+		<Rectangle HorizontalAlignment="Left" Height="30" Margin="45,338,0,0" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+		<Ellipse HorizontalAlignment="Left" Height="16" Margin="38,268,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" Fill="Black"/>
+		<Rectangle HorizontalAlignment="Left" Height="30" Margin="45,284,0,0" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+		<Ellipse HorizontalAlignment="Left" Height="16" Margin="38,211,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" Fill="Black"/>
+		<Rectangle HorizontalAlignment="Left" Height="30" Margin="45,228,0,0" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+		<Ellipse HorizontalAlignment="Left" Height="16" Margin="38,157,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" Fill="Black"/>
+		<Rectangle HorizontalAlignment="Left" Height="30" Margin="45,174,0,0" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+		<Ellipse HorizontalAlignment="Left" Height="16" Margin="38,109,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" Fill="Black"/>
+		<Rectangle HorizontalAlignment="Left" Height="30" Margin="45,118,0,0" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+		<Ellipse HorizontalAlignment="Left" Height="16" Margin="38,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="15" Fill="Black"/>
+		<Rectangle HorizontalAlignment="Left" Height="30" Margin="45,70,0,0" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+		<Label Content="Sepatu anda diterima oleh pihak jasa pengiriman" HorizontalAlignment="Left" Margin="86,378,0,0" VerticalAlignment="Top" Width="375" FontSize="16"/>
+		<Label Content="Pihak jasa sedang mengantarkan sepatu anda" HorizontalAlignment="Left" Margin="86,322,0,0" VerticalAlignment="Top" Width="375" FontSize="16"/>
+		<MediaElement HorizontalAlignment="Left" Height="100" Margin="261,186,0,0" VerticalAlignment="Top" Width="100"/>
+		<Label Content="Sepatu telah selesai di bersihkan" HorizontalAlignment="Left" Margin="86,270,0,0" VerticalAlignment="Top" Width="375" FontSize="16"/>
+		<Label Content="Sepatu anda sedang diproses" HorizontalAlignment="Left" Margin="86,214,0,0" VerticalAlignment="Top" Width="375" FontSize="16"/>
+		<MediaElement HorizontalAlignment="Left" Height="100" Margin="261,139,0,0" VerticalAlignment="Top" Width="100"/>
+		<Label Content="Pihak jasa telah mengambil sepatu anda" HorizontalAlignment="Left" Margin="86,163,0,0" VerticalAlignment="Top" Width="375" FontSize="16"/>
+		<MediaElement HorizontalAlignment="Left" Height="100" Margin="261,35,0,0" VerticalAlignment="Top" Width="100"/>
+		<Label Content="Pihak jasa sedang menuju ke rumah anda" HorizontalAlignment="Left" Margin="86,115,0,0" VerticalAlignment="Top" Width="375" FontSize="16"/>
+		<Label Content="Pihak jasa telah sampai ke rumah anda" HorizontalAlignment="Left" Margin="86,59,0,0" VerticalAlignment="Top" Width="375" FontSize="16"/>
+		<Image Margin="502,250,60,10" Source="/Properties/logo.jpg"/>
+
+		<Border BorderBrush="Black" BorderThickness="1" Margin="437,55,29,220">
+			<StackPanel Orientation="Horizontal" Margin="0,0,1,7" VerticalAlignment="Top">
+				<TextBlock TextWrapping="Wrap" Margin ="5,5,5,0" Height="135" FontWeight="Bold" FontSize="13" Width="57">
+					<Run Text="Nama&#x9;:"/>
+					<LineBreak/>
+					<Run/>
+					<LineBreak/>
+					<Run Text="Sepatu&#x9;:"/>
+					<LineBreak/>
+					<Run/>
+					<LineBreak/>
+					<Run Text="Paket&#x9;:"/>
+					<LineBreak/>
+					<Run/>
+					<LineBreak/>
+					<Run Text="Total&#x9;:"/>
+					<LineBreak/>
+					<Run/>
+					<LineBreak/>
+					<Run/>
+				</TextBlock>
+				<StackPanel>
+					<Label x:Name="LNama" Content="Label" Height="26" Width="152" Margin="5,0,0,0" FontSize="13"/>
+					<Label x:Name="LSepatu" Content="Label" Height="26" Width="152" Margin="5,10,0,0" FontSize="13"/>
+					<Label x:Name="LPaket" Content="Label" Height="26" Width="152" Margin="5,8,0,0" FontSize="13"/>
+					<Label x:Name="LHarga" Content="Label" Height="26" Width="152" Margin="5,8,0,0" FontSize="13"/>
+				</StackPanel>
+
+			</StackPanel>
+
+		</Border>
+		
+
+
+	</Grid>
+</Page>

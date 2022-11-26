@@ -1,0 +1,24 @@
+﻿<Page x:Class="WpfApp1.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="435" d:DesignWidth="800"
+      Title="Page1">
+
+    <Grid Background="White">
+
+        <TextBox x:Name="TBNama" HorizontalAlignment="Center" Height="24" Margin="0,273,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300" />
+        <TextBox x:Name="TBSepatu" HorizontalAlignment="Center" Height="24" Margin="0,327,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300"/>
+        <Button Content="Submit" HorizontalAlignment="Center" Margin="0,379,0,0" VerticalAlignment="Top" Click="Button_Click" Width="100"/>
+        <Image Margin="244,10,244,190" Source="/Properties/logo.jpg"/>
+        <TextBlock HorizontalAlignment="Left" Margin="247,252,0,0" TextWrapping="Wrap" Text="Nama :" VerticalAlignment="Top" Width="140" FontSize="12" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="247,306,0,0" TextWrapping="Wrap" Text="Sepatu :" VerticalAlignment="Top" Width="140" FontSize="12" FontWeight="Bold"/>
+
+
+
+
+    </Grid>
+</Page>

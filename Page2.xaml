@@ -1,0 +1,46 @@
+﻿<Page x:Class="WpfApp1.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d"
+      d:DesignHeight="396" d:DesignWidth="800"
+      Title="Page2">
+
+	<Grid Background="White">
+
+		<Rectangle HorizontalAlignment="Left" Height="72" Margin="41,140,0,0" Stroke="Black" VerticalAlignment="Top" Width="301" Fill="#D9D9D9"/>
+		<TextBlock HorizontalAlignment="Left" Margin="141,144,0,0" TextWrapping="Wrap" Text="Diskon s.d" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+		<TextBlock HorizontalAlignment="Left" Margin="236,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" FontWeight="Bold">
+			<Run Text="Clean Shoes"/>
+			<LineBreak/>
+			<Run Text="Official"/>
+		</TextBlock>
+		<Image Margin="45,140,647,204" Source="/Properties/sepatu.jpg"/>
+		<Label Content="50%" HorizontalAlignment="Left" Margin="138,148,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="32"/>
+
+
+		<TextBlock HorizontalAlignment="Left" Margin="41,235,0,0" TextWrapping="Wrap" Text="Estimasi Waktu :" VerticalAlignment="Top" Height="27" Width="149" FontSize="14" FontWeight="Bold"/>
+
+		<Button x:Name="Button"  HorizontalAlignment="Left" Margin="121,264,0,0" VerticalAlignment="Top" Height="86" Width="109" Background="#97D5F8" Click="PHemat"/>
+
+		<TextBlock HorizontalAlignment="Left" Margin="151,267,0,0" TextWrapping="Wrap" Text="Hemat" VerticalAlignment="Top" FontWeight="Bold"/>
+		<TextBlock HorizontalAlignment="Left" Margin="153,294,0,0" TextWrapping="Wrap" Text="12 Jam" VerticalAlignment="Top" FontWeight="Bold"/>
+		<TextBlock HorizontalAlignment="Left" Margin="149,324,0,0" TextWrapping="Wrap" Text="Rp. 5.000" VerticalAlignment="Top" FontWeight="Bold"/>
+		<Button  HorizontalAlignment="Left" Margin="336,264,0,0" VerticalAlignment="Top" Height="86" Width="109" Background="#97D5F8" Click="PReguler"/>
+
+		<TextBlock HorizontalAlignment="Left" Margin="370,267,0,0" TextWrapping="Wrap" Text="Reguler" VerticalAlignment="Top" FontWeight="Bold"/>
+		<TextBlock HorizontalAlignment="Left" Margin="374,294,0,0" TextWrapping="Wrap" Text="6 Jam" VerticalAlignment="Top" FontWeight="Bold"/>
+		<TextBlock HorizontalAlignment="Left" Margin="366,324,0,0" TextWrapping="Wrap" Text="Rp 10.000" VerticalAlignment="Top" FontWeight="Bold"/>
+		<Button  HorizontalAlignment="Left" Margin="561,264,0,0" VerticalAlignment="Top" Height="86" Width="109" Background="#97D5F8" Click="PCepat"/>
+
+		<TextBlock HorizontalAlignment="Left" Margin="598,267,0,0" TextWrapping="Wrap" Text="Cepat" VerticalAlignment="Top" FontWeight="Bold"/>
+		<TextBlock HorizontalAlignment="Left" Margin="599,296,0,0" TextWrapping="Wrap" Text="4 Jam" VerticalAlignment="Top" FontWeight="Bold"/>
+		<TextBlock HorizontalAlignment="Left" Margin="586,326,0,0" TextWrapping="Wrap" Text="Rp. 15.000" VerticalAlignment="Top" FontWeight="Bold"/>
+		<Label x:Name="Namam" Content="Hai, (nama)" HorizontalAlignment="Left" Margin="36,53,0,0" VerticalAlignment="Top" Width="251" FontSize="13" FontWeight="Bold"/>
+		<Label x:Name="FSepatu" Content="Sepatu (sepatu) Ingin dicuci dengan paket apa?" Margin="36,93,400,273" FontWeight="Bold"/>
+
+
+	</Grid>
+</Page>
